@@ -29,7 +29,6 @@ Cisco Packet Tracer.
 
 ## Tools Used
 - Cisco Packet Tracer
-- Domain: rabinitlab.com
 
 ## Author
 Rabin Kumal
